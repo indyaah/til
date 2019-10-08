@@ -14,6 +14,11 @@
 |https://googlecloudplatform.github.io/cloud-opensource-java/|Google Best Practices for Java Libraries|The missing document I wish I had a few years ago while trying to make my case for certain conventions while working with Java.
 |https://explainshell.com/|Explains any shell command.||
 |https://fp-tower.github.io/foundation/#1|https://github.com/fp-tower/foundation|Foundation of functional programming course|
+|https://resiliencepapers.club|https://github.com/lorin/resilience-engineering|Resilience engineering papers|
+|http://www.fun-with-words.com|The wordplay website|Nothing to see here.|
+|https://queue.acm.org/detail.cfm?id=2903468|Stats for Engineers||
+|https://gist.github.com/neomatrix369/5743225|PerformanceRelated.md|Aggregated JVM Performance links|
+|https://github.com/MutabilityDetector/MutabilityDetector4FindBugs|MutabilityDetector4FindBugs|Run Mutability checks with findbugs run.|
 ||||
 
 
