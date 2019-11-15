@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-11-15T20:04:48Z|https://github.com/plouc/nivo|https://nivo.rocks/|Great visualization lib based on d3|
 |2019-11-13|https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa| Microservice Automation CheatSheet|<a href="./uploads/The%20Microservice%20Workflow%20Automation%20Cheat%20Sheet.pdf">Saved copy</a>|
 |2019-11-13|https://medium.com/@jamsusmaximus/how-to-set-your-personal-okrs-and-stick-to-them-632acec44084|How to set your Personal OKRs and stick to them||
 |2019-11-13|https://dataschool.com/|Data School|Great resource for Data Engineering Best practices|
