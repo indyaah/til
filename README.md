@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-11-18T22:28:26Z|https://medium.com/better-practices/api-specifications-d87588ac874|Bringing law and order to APIs with OpenAPI Specifications||
 |2019-11-16T03:01:42Z|https://www.youtube.com/watch?v=MU8NapbG1IQ|Understanding Low Latency JVM GCs, Shenandoah, C4||
 |2019-11-15T20:04:48Z|https://github.com/plouc/nivo|https://nivo.rocks/|Great visualization lib based on d3|
 |2019-11-13|https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa| Microservice Automation CheatSheet|<a href="./uploads/The%20Microservice%20Workflow%20Automation%20Cheat%20Sheet.pdf">Saved copy</a>|
