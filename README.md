@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-11-26T02:18:51Z|https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a|OpenTracing on kubernetes||
 |2019-11-26T02:18:09Z|https://www.youtube.com/watch?v=hvYqSz_BgUM|Lesson learned with netty||
 |2019-11-26T02:17:37Z|https://www.youtube.com/watch?v=JoQN4xoXY5Y|Analyzing heap memory leak||
 |2019-11-25T19:42:12Z|http://immersivemath.com/ila/index.html|Linear Algebra|https://app.bolster.academy/courses/chapters/en/6 https://textbooks.math.gatech.edu/ila/|
