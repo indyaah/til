@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-11-27T02:51:21Z|https://beginners.re/|Reverse engineering for beginners|https://github.com/DennisYurichev/RE-for-beginners|
 |2019-11-26T02:18:51Z|https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a|OpenTracing on kubernetes||
 |2019-11-26T02:18:09Z|https://www.youtube.com/watch?v=hvYqSz_BgUM|Lesson learned with netty||
 |2019-11-26T02:17:37Z|https://www.youtube.com/watch?v=JoQN4xoXY5Y|Analyzing heap memory leak||
