@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-12-19T21:19:50Z|https://www.marcobehler.com/guides/java-microservices-a-practical-guide|||
 |2019-12-04T06:06:07Z|http://tantek.pbworks.com/w/page/19402879/CommunicationProtocols|Communication Protocols|🔥|
 |2019-11-27T02:51:21Z|https://beginners.re/|Reverse engineering for beginners|https://github.com/DennisYurichev/RE-for-beginners|
 |2019-11-26T02:18:51Z|https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a|OpenTracing on kubernetes||
