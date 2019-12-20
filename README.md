@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2019-12-20T23:54:29Z|https://developer.ibm.com/series/reactive-in-practice/|Reactive in practice with Java||
 |2019-12-20T23:53:00Z|https://www.youtube.com/watch?v=FTsAXJdrJbI|Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps||
 |2019-12-19T21:19:50Z|https://www.marcobehler.com/guides/java-microservices-a-practical-guide|||
 |2019-12-04T06:06:07Z|http://tantek.pbworks.com/w/page/19402879/CommunicationProtocols|Communication Protocols|🔥|
