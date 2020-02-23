@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-02-23T21:32:39Z|https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a|The Leadership Library for Engineers||
 |2020-02-23T21:31:21Z|https://finnhub.io/|Free financial APIs with some service limits||
 |2019-12-20T23:54:29Z|https://developer.ibm.com/series/reactive-in-practice/|Reactive in practice with Java||
 |2019-12-20T23:53:00Z|https://www.youtube.com/watch?v=FTsAXJdrJbI|Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps||
