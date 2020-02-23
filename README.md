@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-02-23T21:31:21Z|https://finnhub.io/|Free financial APIs with some service limits||
 |2019-12-20T23:54:29Z|https://developer.ibm.com/series/reactive-in-practice/|Reactive in practice with Java||
 |2019-12-20T23:53:00Z|https://www.youtube.com/watch?v=FTsAXJdrJbI|Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps||
 |2019-12-19T21:19:50Z|https://www.marcobehler.com/guides/java-microservices-a-practical-guide|||
