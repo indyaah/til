@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-02-29T22:37:47Z|https://github.com/saturnism/spring-cloud-gcp-guestbook|Google Cloud Native with Spring Boot|https://docs.google.com/document/d/14NRxngEhkh1gPTyTS-V51XEHrGMhJKnbzw5uSs6oFaI/edit#heading=h.tremawe2ds3r<br/><br/>[ARCHIVED ARTICLE](../master/uploads/tech/2020_Google_Cloud_Native_with_Spring_Cloud.pdf)|
 |2020-02-29T20:11:56Z|https://www.gwern.net/Improvements|My Ordinary Life: Improvements Since the 1990s||
 |2020-02-29T17:33:06Z|https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/|A half-hour to learn Rust|Best intro to any programming language ever.|
 |2020-02-23T21:32:39Z|https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a|The Leadership Library for Engineers||
