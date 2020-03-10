@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-03-10T02:17:45Z|https://github.com/dwmkerr/hacker-laws|hacker-laws|Laws, Theories, Principles and Patterns that developers will find useful.|
 |2020-03-01T21:00:34Z|https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me|The five programming books that meant most to me.||
 |2020-02-29T22:37:47Z|https://github.com/saturnism/spring-cloud-gcp-guestbook|Google Cloud Native with Spring Boot|https://docs.google.com/document/d/14NRxngEhkh1gPTyTS-V51XEHrGMhJKnbzw5uSs6oFaI/edit#heading=h.tremawe2ds3r<br/><br/>[ARCHIVED ARTICLE](../master/uploads/tech/2020_Google_Cloud_Native_with_Spring_Cloud.pdf)|
 |2020-02-29T20:11:56Z|https://www.gwern.net/Improvements|My Ordinary Life: Improvements Since the 1990s||
