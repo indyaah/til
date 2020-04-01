@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-04-01T01:51:15Z|https://hbr.org/2015/11/a-refresher-on-regression-analysis|A Refresher on Regression Analysis|<br/><br/>[ARCHIVED ARTICLE](../master/uploads/math/a_refresher_on_regression_analysis.pdf)|
 |2020-03-12T02:12:41Z|https://dataschool.com/data-governance/|Data Governance School||
 |2020-03-11T01:10:57Z|https://capiche.com/ama/patrick-mckenzie-stripe|Ask Patrick McKenzie Anything|Picking http://mobile.twitter.com/@patio11 's brain|
 |2020-03-10T02:17:45Z|https://github.com/dwmkerr/hacker-laws|hacker-laws|Laws, Theories, Principles and Patterns that developers will find useful.|
