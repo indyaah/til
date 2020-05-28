@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-05-28T22:00:24Z|https://github.com/kylelobo/The-Documentation-Compendium|The Documentation Compendium|Various templates & tips on writing high-quality documentation that people want to read.|
 |2020-04-25T03:56:22Z|https://github.com/ept/hermitage|transaction isolation levels||
 |2020-04-08T00:17:57Z|https://learnk8s.io|Troubleshooting K8s|<br/><br/>[ARCHIVED ARTICLE](../master/uploads/tech/troubleshooting-kubernetes.pdf)|
 |2020-04-01T01:51:15Z|https://hbr.org/2015/11/a-refresher-on-regression-analysis|A Refresher on Regression Analysis|<br/><br/>[ARCHIVED ARTICLE](../master/uploads/math/a_refresher_on_regression_analysis.pdf)|
