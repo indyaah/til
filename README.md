@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-06-13T08:14:51Z|https://moca.computingarchitectures.com/en/~hello-world/|Map Of Computing Architectures for AWS||
 |2020-05-28T22:00:24Z|https://github.com/kylelobo/The-Documentation-Compendium|The Documentation Compendium|Various templates & tips on writing high-quality documentation that people want to read.|
 |2020-04-25T03:56:22Z|https://github.com/ept/hermitage|transaction isolation levels||
 |2020-04-08T00:17:57Z|https://learnk8s.io|Troubleshooting K8s|<br/><br/>[ARCHIVED ARTICLE](../master/uploads/tech/troubleshooting-kubernetes.pdf)|
