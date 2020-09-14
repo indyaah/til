@@ -5,6 +5,7 @@ Inspired by : https://github.com/sderosiaux/every-single-day-i-tldr
 
 |Date|Link|Title|Notes|
 |----|----|-----|-----|
+|2020-09-14T22:42:41Z|https://resilient.wiki/Emotional-Resilience-Wiki-6f025a6bb6b7456b8f3b9925440352f6|Emotional Resiliency Wiki.||
 |2020-07-15T03:11:35Z|https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/|The Software Architecture Chronicles||
 |2020-06-13T08:14:51Z|https://moca.computingarchitectures.com/en/~hello-world/|Map Of Computing Architectures for AWS||
 |2020-05-28T22:00:24Z|https://github.com/kylelobo/The-Documentation-Compendium|The Documentation Compendium|Various templates & tips on writing high-quality documentation that people want to read.|
